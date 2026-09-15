@@ -32,7 +32,7 @@ SIGAP is a complete emergency communication system consisting of three main comp
 - Real-time monitoring and analytics
 - **For**: Government agencies, emergency coordinators, incident commanders
 
-### 3. **[sigap-arduino](https://github.com/Nfx1z/sigap-arduino)**
+### 3. **[sigap-arduino](https://github.com/Nfx1z/Arduino_emergencyComm_v2)**
 - Field device firmware (Arduino/ESP32 based)
 - Receives BLE messages from mobile apps
 - Processes and relays emergency alerts
@@ -169,7 +169,7 @@ Government Agencies & Emergency Services
 ## 📞 Related Repositories
 
 - **[Android_sigapUser](https://github.com/Nfx1z/Android_sigapUser)** - User emergency reporting app
-- **[sigap-arduino](https://github.com/Nfx1z/sigap-arduino)** - Field device firmware
+- **[sigap-arduino](https://github.com/Nfx1z/Arduino_emergencyComm_v2)** - Field device firmware
 
 ## 🤝 Contributing
 
