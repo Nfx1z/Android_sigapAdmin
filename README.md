@@ -112,19 +112,6 @@ flutter run
 
 ## 📝 Configuration
 
-### Firebase Setup
-1. Create a Firebase project
-2. Enable Firestore Database
-3. Enable Realtime Database
-4. Set up Firebase Authentication
-5. Update `lib/config.dart` with your database URL:
-   ```dart
-   class Config {
-     static const String firebaseUrl = 'your-firebase-database-url';
-     static const String firestoreProjectId = 'your-project-id';
-   }
-   ```
-
 ### User Roles
 - **Admin**: Full access to all functions
 - **Coordinator**: Can manage incidents and view reports
