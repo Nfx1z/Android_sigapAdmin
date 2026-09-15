@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "340156208778",
+    "firebase_url": "https://peshongsigap-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "peshongsigap",
+    "storage_bucket": "peshongsigap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340156208778:android:276bbf5e64f2166ab6ff73",
+        "android_client_info": {
+          "package_name": "com.example.sigap_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8omfjEuUu9DgTu-E0z6tY81ME74IB45Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340156208778:android:83ed50db3ce15f9bb6ff73",
+        "android_client_info": {
+          "package_name": "com.peshong.sigap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8omfjEuUu9DgTu-E0z6tY81ME74IB45Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
